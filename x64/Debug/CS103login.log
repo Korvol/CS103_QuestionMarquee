@@ -1,0 +1,6 @@
+﻿  CS103_QuestionMarquee.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\270450497\OneDrive - UP Education\Documents\Visual Studio 2022\repos\CS103login\CS103_QuestionMarquee.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\270450497\OneDrive - UP Education\Documents\Visual Studio 2022\repos\CS103login\CS103_QuestionMarquee.cpp(126,9): warning C4101: 'inpint': unreferenced local variable
+CS103_QuestionMarquee.obj : error LNK2019: unresolved external symbol "void __cdecl complain(void)" (?complain@@YAXXZ) referenced in function main
+C:\Users\270450497\OneDrive - UP Education\Documents\Visual Studio 2022\repos\CS103login\x64\Debug\CS103login.exe : fatal error LNK1120: 1 unresolved externals
