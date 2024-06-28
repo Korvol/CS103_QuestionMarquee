@@ -1,0 +1,4 @@
+﻿  CS103_QuestionMarquee.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\source\repos\CS103_QuestionMarquee\CS103_QuestionMarquee\CS103_QuestionMarquee.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS103_QuestionMarquee.vcxproj -> C:\Users\User\source\repos\CS103_QuestionMarquee\x64\Debug\CS103_QuestionMarquee.exe
